@@ -7,4 +7,4 @@ image_resource:
 
 run:
   path: echo
-  args: [hello world hahaha!]
+  args: [hello world hahaha add timer!]
